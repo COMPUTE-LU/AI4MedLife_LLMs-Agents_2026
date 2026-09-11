@@ -6,7 +6,7 @@ The course is given in a 1.5 ECTS version, and in an extended 6 ECTS version wit
 ## Location
 Lectures are given online (Day 1-3) and in the BMC, Lund (Day 4 and examination days).
 
-Times and locations for the individual study tasks and debate prep are at the students' discretion and groups need to agree on a suitable time. The indicated lecture halls will be open in the afternoon until 16:00 to sit there if you want.
+Locations for the individual study tasks and debate prep are at the students' discretion. The indicated lecture halls will be open in the afternoon until 16:00 to sit there if you want.
 
 Lecture halls: 
 
