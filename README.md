@@ -19,6 +19,6 @@ Laptop + Google account login
 | **September 17** | 09:15–11:15 | Choosing & evaluating AI<br><br>**Team Debate:** *We should have Autonomous AI Scientists & Doctors – YES or NO* |
 |  | Afternoon | Self-study tasks |
 | **September 22** | 09:15–12:00 | Examination part 1 *(for 1.5 and 6 ECTS version)* |
-| **September 23 – October 11** | — | Independent project work *(for 6 ECTS version only)* |
+| **Sept 23 – Oct 11** | — | Independent project work *(for 6 ECTS version only)* |
 | **October 12** | 09:15–12:00 | Examination part 2 *(for 6 ECTS version only)* |
 
