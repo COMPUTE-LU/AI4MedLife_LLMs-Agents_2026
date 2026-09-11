@@ -10,7 +10,7 @@ Laptop + Google account login
 ## Schedule
 | Date | Time | Session topics |
 |---|---|---|
-| **September 14** | 09:15–11:15 | Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications with related to language and speech|
+| **September 14** | 09:15–11:15 | Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
 |  | Afternoon | Self-study tasks and debate prep |
 | **September 15** | 09:15–11:15 | Small and large language models<br>Multimodal AI |
 |  | Afternoon | Self-study tasks and debate prep |
