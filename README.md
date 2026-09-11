@@ -28,7 +28,7 @@ All times are without academic quarter
 |---|---|---|---|
 | **September 14** | 10:00–12:00 |Online| Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
 |  | Afternoon |Segerfalksalen | Self-study tasks and individual debate prep |
-| **September 15** |Online| 10:00-12:00 | Small and large language models<br>Multimodal AI |
+| **September 15** |10:00-12:00 | Online| Small and large language models<br>Multimodal AI |
 |  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
 | **September 16** |09:00-11:00 | Online| Agentic AI<br>Responsible AI & Data Science |
 |  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
