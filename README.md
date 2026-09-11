@@ -25,3 +25,15 @@ Sonja Aits
 | **Sept 23 – Oct 11** | — | Independent project work *(for 6 ECTS version only)* |
 | **October 12** | 09:15–12:00 | Examination part 2 *(for 6 ECTS version only)* |
 
+# Computational exercises
+### Preparation
+For the computational exercises we will use Google Colab notebooks. Briefly read through the [Colab tutorial](https://github.com/Aitslab/training/blob/master/tutorials/colab.md) to ensure you are ready. You can also run the notebooks locally on your computer as a Jupyter notebook.
+
+You will get the most out of the computational exercises if you understand basic Python programming, even though the exercises can still be followed if you cannot program yourself.
+
+If you are unfamiliar with Python, I recommend that you watch the video from a prior COMPUTE introductory workshop: [Python for Beginners workshop](https://youtu.be/yDNBdB59J1s) and look at the [Colab tutorial for the workshop](https://github.com/COMPUTE-LU/PLGroup_PythonforBeginners/blob/main/kickoff_tutorial_20210127.ipynb).
+
+There are also good online Python "crash" courses on many different MOOC platforms, e.g. the [Python Crash Course on Coursera](https://www.coursera.org/learn/python-crash-course).
+
+# Generative AI use policy
+Chatbots like Gemini, ChatGPT, Claude and their underlying LLMs represent the state of the art in the field this course covers. Learning to use them responsibly is one of the key learning goals of the course and I therefore actively encourage you to use these tools (whether commercial or open-source alternatives is up to you) as much as possible during this course. Ideally you try out more than one - to help you learn Python, write code, quiz you, answer your questions, conduct your projects and prepare presentations, whatever you deem relevant. Nevertheless, any mistakes these tools make, you own, i.e. you are fully responsible for everything you present and hand in during examination, including any mistakes that the tools make.
