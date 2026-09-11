@@ -29,9 +29,9 @@ All times are without academic quarter
 | **September 14** | 10:00–12:00 |Online| Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
 |  | Afternoon |Segerfalksalen | Self-study tasks and individual debate prep |
 | **September 15** |10:00-12:00 | Online| Small and large language models<br>Multimodal AI |
-|  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
+|  | Afternoon |Segerfalksalen| Group debate prep (90 min) & Self-study tasks |
 | **September 16** |09:00-11:00 | Online| Agentic AI<br>Responsible AI & Data Science |
-|  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
+|  | Afternoon |Segerfalksalen| Group debate prep (90 min) & Self-study tasks |
 | **September 17** | 10:00-12:00 |Dora Jacobson| Choosing & evaluating AI<br>Team Debate: *We should have Autonomous AI Scientists & Doctors – YES or NO* |
 |  | Afternoon | Dora Jacobson |Self-study tasks |
 | **September 22** | 09:15–12:00 |Segerfalksalen|  Examination part 1 *(for 1.5 and 6 ECTS version)* |
