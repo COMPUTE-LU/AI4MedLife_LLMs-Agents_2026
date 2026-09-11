@@ -31,7 +31,7 @@ For the computational exercises we will use Google Colab notebooks. Briefly read
 
 You will get the most out of the computational exercises if you understand basic Python programming, even though the exercises can still be followed if you cannot program yourself.
 
-If you are unfamiliar with Python, I recommend that you watch the video from a prior COMPUTE introductory workshop: [Python for Beginners workshop](https://youtu.be/yDNBdB59J1s) and look at the [Colab tutorial for the workshop](https://github.com/COMPUTE-LU/PLGroup_PythonforBeginners/blob/main/kickoff_tutorial_20210127.ipynb).
+If you are unfamiliar with Python, you can watch the video from the COMPUTE introductory workshop: [Python for Beginners workshop](https://youtu.be/yDNBdB59J1s) and look at the [Colab tutorial for the workshop](https://github.com/COMPUTE-LU/PLGroup_PythonforBeginners/blob/main/kickoff_tutorial_20210127.ipynb).
 
 There are also good online Python "crash" courses on many different MOOC platforms, e.g. the [Python Crash Course on Coursera](https://www.coursera.org/learn/python-crash-course).
 
