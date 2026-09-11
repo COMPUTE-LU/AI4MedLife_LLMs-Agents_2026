@@ -1,11 +1,14 @@
 # AI in Medicine and Life Sciences - Text and Language Data, 2026
-The material for the course "AI in Medicine and Life Sciences - Text and Language Data" given at Lund University in the fall term 2026. It covers small and large language models, agentic AI and their applications in medicine and life sciences.
+The material for the course "AI in Medicine and Life Sciences - Text and Language Data" given at Lund University in the fall term 2026. It covers small and large language models, agentic AI, their applications in medicine and life sciences as well as responsible AI and Data Science. The course is give in a 1.5 ECTS version, and in a 6 ECTS version with independent project work.
 
 ## Location
 Segerfalksalen, BMC (A-building, ground floor, entry from the courtyard), Lund
 
 ## What to bring
 Laptop + Google account login
+
+## Teacher
+Sonja Aits
 
 ## Schedule
 | Date | Time | Session topics |
