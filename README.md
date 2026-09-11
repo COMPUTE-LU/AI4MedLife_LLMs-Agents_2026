@@ -1,8 +1,15 @@
 # AI in Medicine and Life Sciences - Text and Language Data, 2026
-The material for the course "AI in Medicine and Life Sciences - Text and Language Data" given at Lund University in the fall term 2026. It covers small and large language models, agentic AI, their applications in medicine and life sciences as well as responsible AI and Data Science. The course is given in a 1.5 ECTS version, and in a 6 ECTS version with independent project work.
+This repo contains all material for the course "AI in Medicine and Life Sciences - Text and Language Data" given at Lund University in the fall term 2026. The course covers small and large language models, agentic AI, their applications in medicine and life sciences as well as responsible AI and data science principles. 
+
+The course is given in a 1.5 ECTS version, and in an extended 6 ECTS version with independent project work. It is possible to switch between them until the examination.
 
 ## Location
-Segerfalksalen, BMC (A-building, ground floor, entry from the courtyard), Lund
+Online (Day 1) & BMC, Lund (all other days)
+
+Lecture halls: 
+Segerfalksalen, BMC A building, ground floor
+Dora Jacobson, BMC D building, top floor
+
 
 ## What you need
 Laptop + Google account login
@@ -11,19 +18,21 @@ Laptop + Google account login
 Sonja Aits
 
 ## Schedule
-| Date | Time | Session topics |
+All times are without academic quarter
+
+| Date | Time |Location| Sessions |
 |---|---|---|
-| **September 14** | 09:15–11:15 | Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
-|  | Afternoon | Self-study tasks and debate prep |
-| **September 15** | 09:15–11:15 | Small and large language models<br>Multimodal AI |
-|  | Afternoon | Self-study tasks and debate prep |
-| **September 16** | 09:15–11:00 | Agentic AI<br>Responsible AI & Data Science |
-|  | Afternoon | Self-study tasks and debate prep |
-| **September 17** | 09:15–11:15 | Choosing & evaluating AI<br>Team Debate: *We should have Autonomous AI Scientists & Doctors – YES or NO* |
+| **September 14** | 10:00–12:00 |Online| Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
+|  | Afternoon |Segerfalksalen open until 4| Self-study tasks and individual debate prep |
+| **September 15** |Online| 10:00-12:00 | Small and large language models<br>Multimodal AI |
+|  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
+| **September 16** |10:00–12:00 | Online| Agentic AI<br>Responsible AI & Data Science |
+|  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
+| **September 17** | 09:15–11:15 |Dora Jacobson| Choosing & evaluating AI<br>Team Debate: *We should have Autonomous AI Scientists & Doctors – YES or NO* |
 |  | Afternoon | Self-study tasks |
-| **September 22** | 09:15–12:00 | Examination part 1 *(for 1.5 and 6 ECTS version)* |
+| **September 22** | 09:15–12:00 |Segerfalksalen|  Examination part 1 *(for 1.5 and 6 ECTS version)* |
 | **Sept 23 – Oct 11** | — | Independent project work *(for 6 ECTS version only)* |
-| **October 12** | 09:15–12:00 | Examination part 2 *(for 6 ECTS version only)* |
+| **October 12** | 09:15–12:00 |Segerfalksalen| Examination part 2 *(for 6 ECTS version only)* |
 
 # Computational exercises
 ### Preparation
