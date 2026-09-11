@@ -13,7 +13,7 @@ Segerfalksalen, BMC (A-building, ground floor, entry from the courtyard), Lund
 | **September 15** | Afternoon | Self-study tasks and debate prep |
 | **September 16** | 09:15–11:00 | Agentic AI<br>Responsible AI & Data Science |
 | **September 16** | Afternoon | Self-study tasks and debate prep |
-| **September 17** | 09:15–11:15 | Choosing & evaluating AI<br><br>**Debate:** *We should have Autonomous AI Scientists & Doctors – YES or NO* |
+| **September 17** | 09:15–11:15 | Choosing & evaluating AI<br><br>**Team Debate:** *We should have Autonomous AI Scientists & Doctors – YES or NO* |
 | **September 17** | Afternoon | Self-study tasks |
 | **September 22** | 09:15–12:00 | Examination part 1 *(for 1.5 and 6 ECTS version)* |
 | **September 23 – October 11** | — | Independent project work *(for 6 ECTS version only)* |
