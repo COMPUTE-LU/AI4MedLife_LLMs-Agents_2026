@@ -33,7 +33,7 @@ All times are without academic quarter
 | **September 16** |10:00–12:00 | Online| Agentic AI<br>Responsible AI & Data Science |
 |  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
 | **September 17** | 09:15–11:15 |Dora Jacobson| Choosing & evaluating AI<br>Team Debate: *We should have Autonomous AI Scientists & Doctors – YES or NO* |
-|  | Afternoon | Self-study tasks |
+|  | Afternoon | Dora Jacobso |Self-study tasks |
 | **September 22** | 09:15–12:00 |Segerfalksalen|  Examination part 1 *(for 1.5 and 6 ECTS version)* |
 | **Sept 23 – Oct 11** | — | Independent project work *(for 6 ECTS version only)* |
 | **October 12** | 09:15–12:00 |Segerfalksalen| Examination part 2 *(for 6 ECTS version only)* |
