@@ -30,9 +30,9 @@ All times are without academic quarter
 |  | Afternoon |Segerfalksalen | Self-study tasks and individual debate prep |
 | **September 15** |Online| 10:00-12:00 | Small and large language models<br>Multimodal AI |
 |  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
-| **September 16** |10:00–12:00 | Online| Agentic AI<br>Responsible AI & Data Science |
+| **September 16** |09:00-11:00 | Online| Agentic AI<br>Responsible AI & Data Science |
 |  | Afternoon |Segerfalksalen| Self-study tasks and group debate prep |
-| **September 17** | 09:15–11:15 |Dora Jacobson| Choosing & evaluating AI<br>Team Debate: *We should have Autonomous AI Scientists & Doctors – YES or NO* |
+| **September 17** | 10:00-12:00 |Dora Jacobson| Choosing & evaluating AI<br>Team Debate: *We should have Autonomous AI Scientists & Doctors – YES or NO* |
 |  | Afternoon | Dora Jacobso |Self-study tasks |
 | **September 22** | 09:15–12:00 |Segerfalksalen|  Examination part 1 *(for 1.5 and 6 ECTS version)* |
 | **Sept 23 – Oct 11** | — | Independent project work *(for 6 ECTS version only)* |
