@@ -4,10 +4,14 @@ This repo contains all material for the course "AI in Medicine and Life Sciences
 The course is given in a 1.5 ECTS version, and in an extended 6 ECTS version with independent project work. It is possible to switch between them until the examination.
 
 ## Location
-Online (Day 1) & BMC, Lund (all other days)
+Lectures are given online (Day 1-3) and in the BMC, Lund (Day 4 and examination days).
+
+Times and locations for the individual study tasks and debate prep are at the students' discretion and groups need to agree on a suitable time. The indicated lecture halls will be open in the afternoon until 16:00 to sit there if you want.
 
 Lecture halls: 
+
 Segerfalksalen, BMC A building, ground floor
+
 Dora Jacobson, BMC D building, top floor
 
 
