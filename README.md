@@ -4,7 +4,7 @@ The material for the course "AI in Medicine and Life Sciences - Text and Languag
 ## Location
 Segerfalksalen, BMC (A-building, ground floor, entry from the courtyard), Lund
 
-## What to bring
+## What you need
 Laptop + Google account login
 
 ## Teacher
