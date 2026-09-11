@@ -12,7 +12,7 @@ Sonja Aits
 ## Location
 Lectures are held online on day 1-3. Day 4 and examinations will take place in the BMC, Sölvegatan, Lund.
 
-Locations for the individual study tasks and debate prep are at the students' discretion but the indicated lecture halls will be open until 16:00 to sit there if you want.
+Locations for the self-study tasks and debate prep are at the students' discretion but the indicated lecture halls will be open until 16:00 to sit there if you want.
 
 Lecture halls: 
 
