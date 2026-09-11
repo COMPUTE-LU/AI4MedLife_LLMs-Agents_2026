@@ -3,6 +3,12 @@ This repo contains all material for the course "AI in Medicine and Life Sciences
 
 The course is given in a 1.5 ECTS version, and in an extended 6 ECTS version with independent project work. It is possible to switch between them until the examination.
 
+## What you need
+Laptop + Google account login
+
+## Teacher
+Sonja Aits
+
 ## Location
 Lectures are given online (Day 1-3) and in the BMC, Lund (Day 4 and examination days).
 
@@ -14,12 +20,6 @@ Segerfalksalen, BMC A building, ground floor
 
 Dora Jacobson, BMC D building, top floor
 
-
-## What you need
-Laptop + Google account login
-
-## Teacher
-Sonja Aits
 
 ## Schedule
 All times are without academic quarter
