@@ -26,7 +26,7 @@ All times are without academic quarter
 
 | Date | Time |Location| Sessions |
 |---|---|---|---|
-| **September 14** | 10:00–12:00 |Online| Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
+| **September 14** | 10:00-12:00 |Online| Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
 |  | Afternoon |Segerfalksalen | Individual debate prep & Self-study tasks|
 | **September 15** |10:00-12:00 | Online| Small and large language models<br>Multimodal AI |
 |  | Afternoon |Segerfalksalen| Group debate prep (90 min) & Self-study tasks |
@@ -34,9 +34,9 @@ All times are without academic quarter
 |  | Afternoon |Segerfalksalen| Group debate prep (90 min) & Self-study tasks |
 | **September 17** | 10:00-12:00 |Dora Jacobson| Choosing & evaluating AI<br>Team Debate: *We should have Autonomous AI Scientists & Doctors – YES or NO* |
 |  | Afternoon | Dora Jacobson |Self-study tasks |
-| **September 22** | 09:15–12:00 |Segerfalksalen|  Examination part 1 *(for 1.5 and 6 ECTS version)* |
+| **September 22** | 10:00-16:00 |Segerfalksalen|  Examination part 1 *(for 1.5 and 6 ECTS version)* |
 | **Sept 23 – Oct 11** |  || Independent project work *(for 6 ECTS version only)* |
-| **October 12** | 09:15–12:00 |Segerfalksalen| Examination part 2 *(for 6 ECTS version only)* |
+| **October 12** | 10:00-16:00 |Segerfalksalen| Examination part 2 *(for 6 ECTS version only)* |
 
 # Computational exercises
 ### Preparation
