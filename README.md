@@ -25,7 +25,7 @@ Sonja Aits
 All times are without academic quarter
 
 | Date | Time |Location| Sessions |
-|---|---|---|
+|---|---|---|---|
 | **September 14** | 10:00–12:00 |Online| Intro & Practicalities<br>Foundations of AI recap<br>Language & speech data<br>AI applications related to language and speech |
 |  | Afternoon |Segerfalksalen open until 4| Self-study tasks and individual debate prep |
 | **September 15** |Online| 10:00-12:00 | Small and large language models<br>Multimodal AI |
