@@ -65,7 +65,7 @@ The presentation has to include the following aspects:
 
 Note: The reflection section should account for 50% of the slides of the presentation (excluding the reference slides).
 
-## Debate
+## Debate (required for 1.5 and 6 ECTS version)
 The debate will help you consolidate your knowledge as it requires you to engage actively with the topic. It is not a "free" debate but a structured debate in teams. You will be randomly assigned to the team "YES" or "NO". Your job during the debate is to defend this position and it does not matter if this is your real opinion, as the purpose is to thoroughly explore the arguments of both sides and demonstrate that you understand the subject. Consequently, there will also not be a "winner".
 
 The debate format is as follows (we will flip a coin to see if the YES or NO side starts):
