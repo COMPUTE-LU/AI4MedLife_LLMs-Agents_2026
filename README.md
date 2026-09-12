@@ -39,40 +39,58 @@ All times are without academic quarter
 | **October 12** | 10:00-16:00 (likely shorter) |Segerfalksalen| Examination part 2 *(for 6 ECTS version only)* |
 
 # Examinations
-To receive 1.5 ECTS students must participate in examination 1. To recieve 6 ECTS students must participate in examination 1 and 6. Only PhD students can receive credits but if there are time slots left other participants can take part to receive feedback on their projects.
+To receive 1.5 ECTS, students must successfully participate in debate (see format below) and examination 1 (pass grade). To recieve 6 ECTS, students must participate in the debate, examination 1 and 6 (pass grade). 
 
-## Examination 1
-The students will plan a small AI-related project of their choice with a step-wise template that aligns with the course content and explore how much of it can be realized within a short time with AI support. Examination 1 will consist of a presentation of the project and oral questioning by other course participants and the course leader. Every student will be main questioner for another student project in addition to presenting their own and both presentation and questioning (for asking and answering) are part of the examination. 
+If you are unable to attend that day a replacement exam will be offered, but the format will differ if there are no other students taking part in the back-up examination. If you have special requirements, we can of course adapt the examination according to the university rules on such matters.
 
-## Examination 2
-The students will conduct an extended AI-related project of their choice in an independent manner with AI support. They can continue with the project started for examination 1, or switch to a new project. Examination 2 will follow the same format as examination 1.
+Only PhD students can receive credits but if there are time slots left on the examination days other participants can take part in a slightly modified manner to receive feedback on their projects.
 
-## Presentation format
+## Examination 1 (required for 1.5 and 6 ECTS version)
+The students will plan a small AI-related project of their choice with a step-wise template that aligns with the course content and explore how much of it can be realized within a short time with AI support. Examination 1 will consist of a presentation of the project and oral questioning by other course participants and the course leader. Every student will be the main questioner for another student project in addition to presenting their own project, and both presentation and questioning (for asking and answering) are part of the examination. 
+
+## Examination 2 (required for 6 ECTS version)
+The students will conduct an extended AI-related project of their choice in an independent manner with AI support. They can continue with the project started for examination 1, or switch to a new project. Examination 2 will follow the same format as examination 1, but the presentation will be slightly longer.
+
+## Presentation format on examination days
+Presentation length for examination 1: 15 min + 10 min questions
+Presentation length for examination 2: 20 min + 10 min questions
+
 The presentation has to include the following aspects:
 - Research problem with brief background understandable to the course participants (max 1 slide)
 - Specific research task and objective (max 1 slide)
-- All Data and AI used in the project (at least two data sources and two types of AI need to be used), including an extra slide with references and links (not to be discussed in the presentation but as resource for other course participants in the future)
+- All Data and AI used in the project (at least two data sources and two types of AI need to be used)
 - Results from the project
 - Holistic reflection on the project: 1. Limitations of the project, 2. Advantages and drawbacks of the overall project approach, data and employed AI, including a discussion of iterative improvements that were made, 3. Wider implications of the project with regards to privacy (explicitly name any sensitive data), ethics, sustainability, security, deployment and societal impact, 4. Responsible AI approaches used in the project and possible improvements, 5. Suggestion for next steps
+- An extra slide(s) with references for ALL data, code and AI used in the project, in the same format as for a research article (not to be discussed in the presentation but simply included in the end). DOIs or other links to be included where available.
 
-Note: The reflection should account for 50% of the slides of the presentation.
+Note: The reflection section should account for 50% of the slides of the presentation (excluding the reference slides).
 
+## Debate
+The debate will help you consolidate your knowledge as it requires you to engage actively with the topic. It is not a "free" debate but a structured debate in teams. You will be randomly assigned to the team "YES" or "NO". Your job during the debate is to defend this position and it does not matter if this is your real opinion, as the purpose is to thoroughly explore the arguments of both sides and demonstrate that you understand the subject. Consequently, there will also not be a "winner".
 
-# Computational exercises
-### Preparation
-For the computational exercises we will use Google Colab notebooks. Briefly read through the [Colab tutorial](https://github.com/Aitslab/training/blob/master/tutorials/colab.md) to ensure you are ready. You can also run the notebooks locally on your computer as a Jupyter notebook.
+The debate format is as follows (we will flip a coin to see if the YES or NO side starts):
+1. 10 min opening statement, team 1
+2. 10 min opening statement, team 2
+3. 3 min pause to consider the arguments of the other side as a group
+4. 5 min rebuttal, team 1
+5. 5 min rebuttal, team 2
+6. 3 min pause to consider the arguments of the other side as a group
+7. 5 min counter-rebuttal, team 1
+8. 5 min counter-rebuttal, team 2
 
-You will get the most out of the computational exercises if you understand basic Python programming, even though the exercises can still be followed if you cannot program yourself.
+Debate rules
+- Times will be strict (you will be cut off when the timer rings).
+- There will be no slides, but you are allowed to read from a paper if absolutely necessary.
+- 4 people should take part in the opening statement and at least 2 in rebuttal and counter-rebuttal. Everyone who takes credits from the course needs to speak in at least one of the three speaking slots and take part in the debate preparation group meetings. For everyone else, it is optional. You can distribute the speaking roles freely. In case of disagreement, flip a coin.
+- Preparation format: On day 1, you will research the topic and YES and NO arguments individually. On day 2 and 3, you meet at least 90 min as a group, discuss what you found and prepare your opening statement. Also discuss any arguments you think might come from the opposing group, so you are ready for the rebuttals, and divide the roles for the debate.
 
-If you are unfamiliar with Python, you can watch the video from the COMPUTE introductory workshop: [Python for Beginners workshop](https://youtu.be/yDNBdB59J1s) and look at the [Colab tutorial for the workshop](https://github.com/COMPUTE-LU/PLGroup_PythonforBeginners/blob/main/kickoff_tutorial_20210127.ipynb).
-
-There are also good online Python "crash" courses on many different MOOC platforms, e.g. the [Python Crash Course on Coursera](https://www.coursera.org/learn/python-crash-course).
-
-# Generative AI use policy
-Chatbots like Gemini, ChatGPT, Claude and their underlying LLMs represent the state-of-the-art in the field this course covers. Learning to use them responsibly is one of the key learning goals of the course. Therefore you are actively encouraged to use these tools (whether commercial or open-source alternatives is up to you) as much as possible during this course. Ideally you try out more than one to help you learn Python, write code, quiz you, answer your questions, conduct your projects and prepare presentations - whatever you deem relevant. Even though the chatbots are highly proficient within the course topics, they make mistakes. So, make sure you verify their output. Any mistakes these tools make, you own, i.e. you are fully responsible for everything you present and hand in during the examination, including any mistakes that the tools make.
+## Generative AI use policy
+Chatbots like Gemini, ChatGPT, Claude and their underlying LLMs represent the state-of-the-art in the field this course covers. Learning to use them responsibly is one of the key learning goals of the course. Therefore you are actively encouraged to use these tools (whether commercial or open-source alternatives is up to you) as much as possible during this course, including to support you in the examination. Ideally you try out more than one to help you learn Python, write code, quiz you, answer your questions, conduct your projects, research debate arguments and prepare presentations - whatever you deem relevant. However, even though the chatbots are highly proficient within the course topics, they make mistakes. So, make sure you verify their output and sources. Any mistakes these tools make, you own, i.e. you are fully responsible for everything you present and hand in during the examination, including any mistakes that the tools make.
 
 # Course materials
 Colab notebooks and slides will be uploaded to this page.
 
 There is no course book but you can find additional material to support your learning on the [Aitslab Training repo](https://github.com/Aitslab/training/).
 
+# Note on recordings
+The lectures of the course will be recorded. If you wish, recordings can be paused during questions. Simply send me an email to let me know when you wish me to remove something or tell me during the course if you would like the recording to be paused. I can also remove your comments or questions afterwards if you forgot at the time or changed your mind, no reason required. The debate and examinations will not be recorded. Recordings cannot be made available during the course, but perhaps at a later point. Their main purpose is to improve the course for the next iteration.
