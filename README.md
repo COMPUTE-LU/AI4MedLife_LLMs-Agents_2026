@@ -10,7 +10,7 @@ Laptop + Google account login
 Sonja Aits
 
 ## Location
-Lectures are held online on day 1-3. Day 4 and examinations will take place in the BMC, Sölvegatan, Lund (exceptions for on-site participation on those days can be made for reasonable grounds, please discuss with the course leader).
+Lectures are held online on day 1-3. Day 4 and examinations will take place in the BMC, Sölvegatan, Lund (exceptions for on-site participation on those days can be made for reasonable grounds, please discuss with the course leader). A zoom link will be sent out to registered participants before the first course day.
 
 Locations for the self-study tasks and debate prep are at the students' discretion but the indicated lecture halls will be open until 16:00 to sit there if you want.
 
