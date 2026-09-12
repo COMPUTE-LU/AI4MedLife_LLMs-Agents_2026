@@ -38,6 +38,26 @@ All times are without academic quarter
 | **Sept 23 – Oct 11** |  || Independent project work *(for 6 ECTS version only)* |
 | **October 12** | 10:00-16:00 (likely shorter) |Segerfalksalen| Examination part 2 *(for 6 ECTS version only)* |
 
+# Examinations
+To receive 1.5 ECTS students must participate in examination 1. To recieve 6 ECTS students must participate in examination 1 and 6. Only PhD students can receive credits but if there are time slots left other participants can take part to receive feedback on their projects.
+
+## Examination 1
+The students will plan a small AI-related project of their choice with a step-wise template that aligns with the course content and explore how much of it can be realized within a short time with AI support. Examination 1 will consist of a presentation of the project and oral questioning by other course participants and the course leader. Every student will be main questioner for another student project in addition to presenting their own and both presentation and questioning (for asking and answering) are part of the examination. 
+
+## Examination 2
+The students will conduct an extended AI-related project of their choice in an independent manner with AI support. They can continue with the project started for examination 1, or switch to a new project. Examination 2 will follow the same format as examination 1.
+
+## Presentation format
+The presentation has to include the following aspects:
+- Research problem with brief background understandable to the course participants (max 1 slide)
+- Specific research task and objective (max 1 slide)
+- All Data and AI used in the project (at least two data sources and two types of AI need to be used), including an extra slide with references and links (not to be discussed in the presentation but as resource for other course participants in the future)
+- Results from the project
+- Holistic reflection on the project: 1. Limitations of the project, 2. Advantages and drawbacks of the overall project approach, data and employed AI, including a discussion of iterative improvements that were made, 3. Wider implications of the project with regards to privacy (explicitly name any sensitive data), ethics, sustainability, security, deployment and societal impact, 4. Responsible AI approaches used in the project and possible improvements, 5. Suggestion for next steps
+
+Note: The reflection should account for 50% of the slides of the presentation.
+
+
 # Computational exercises
 ### Preparation
 For the computational exercises we will use Google Colab notebooks. Briefly read through the [Colab tutorial](https://github.com/Aitslab/training/blob/master/tutorials/colab.md) to ensure you are ready. You can also run the notebooks locally on your computer as a Jupyter notebook.
