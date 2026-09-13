@@ -56,14 +56,13 @@ Presentation length for examination 1: 15 min + 10 min questions
 Presentation length for examination 2: 20 min + 10 min questions
 
 The presentation has to include the following aspects:
-- Research problem with brief background understandable to the course participants (max 1 slide)
+- Research problem with brief background, understandable to the course participants (max 1 slide)
 - Specific research task and objective (max 1 slide)
-- All Data and AI used in the project (at least two data sources and two types of AI need to be used)
-- Results from the project
-- Holistic reflection on the project: 1. Limitations of the project, 2. Advantages and drawbacks of the overall project approach, data and employed AI, including a discussion of iterative improvements that were made, 3. Wider implications of the project with regards to privacy (explicitly name any sensitive data), ethics, sustainability, security, deployment and societal impact, 4. Responsible AI approaches used in the project and possible improvements, 5. Suggestion for next steps
-- An extra slide(s) with references for ALL data, code and AI used in the project, in the same format as for a research article (not to be discussed in the presentation but simply included in the end). DOIs or other links to be included where available.
-
-Note: The reflection section should account for 50% of the slides of the presentation (excluding the reference slides).
+- All Data used in the project. You have to use at least two data sources but neither needs to be real data. For examination 1, it is sufficient, if one of them is literature you read or analysed with a chatbot in relation to your project.
+- All AI used in the project, including any chatbots you have used. You have to use at least two types of AI. For examination 1, it is sufficient if one of them is a chatbot you used to support you in your project work. For examination 2, it is sufficient if you trained to different models or explored two different architectures.
+- Results from the project. You do not need to have build a working AI to pass but you need to reflect on any failures and evaluate how much progress you have made in the holistic reflection section.
+- Holistic reflection on the project: 1. Limitations of the project, 2. Advantages and drawbacks of the overall project approach, data and employed AI, including a discussion of the failures an iterative improvements that were made, 3. Wider implications of the project with regards to privacy (explicitly name any sensitive data), ethics, sustainability, security, deployment and societal impact, 4. Responsible AI approaches used in the project and possible improvements, 5. Suggestion for next steps
+- An extra slide(s) with references for ALL data, code and AI used in the project, in the same format as for a research article (not to be discussed in the presentation but simply included in the end). DOIs or other links to be included where available.Note: The reflection section should account for 50% of the slides of the presentation (excluding the reference slides).
 
 ## Debate (required for 1.5 and 6 ECTS version)
 The debate will help you consolidate your knowledge as it requires you to engage actively with the topic. It is not a "free" debate but a structured debate in teams. You will be randomly assigned to the team "YES" or "NO". Your job during the debate is to defend this position and it does not matter if this is your real opinion, as the purpose is to thoroughly explore the arguments of both sides and demonstrate that you understand the subject. Consequently, there will also not be a "winner".
