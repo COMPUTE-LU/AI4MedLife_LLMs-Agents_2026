@@ -87,7 +87,7 @@ Debate rules
 Chatbots like Gemini, ChatGPT, Claude and their underlying LLMs represent the state-of-the-art in the field this course covers. Learning to use them responsibly is one of the key learning goals of the course. Therefore you are actively encouraged to use these tools (whether commercial or open-source alternatives is up to you) as much as possible during this course, including to support you in the examination. Ideally you try out more than one to help you learn Python, write code, quiz you, answer your questions, conduct your projects, research debate arguments and prepare presentations - whatever you deem relevant. However, even though the chatbots are highly proficient within the course topics, they make mistakes. So, make sure you verify their output and sources. Any mistakes these tools make, you own, i.e. you are fully responsible for everything you present and hand in during the examination, including any mistakes that the tools make.
 
 # Course materials
-Colab notebooks and [slides](slides) will be uploaded to this page.
+[Colab notebooks](colab_notebooks) and [slides](slides) will be uploaded to this page.
 
 There is no course book but you can find additional material to support your learning on the [Aitslab Training repo](https://github.com/Aitslab/training/).
 
